@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cucygh/es6-webpack.git"
+    "url": "git+https://github.com/sbbs3626/es6-webpack.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cucygh/es6-webpack/issues"
+    "url": "https://github.com/sbbs3626/es6-webpack/issues"
   },
   "eslintConfig": {
     "root": true,
@@ -51,7 +51,7 @@
       "env"
     ]
   },
-  "homepage": "https://github.com/cucygh/es6-webpack#readme",
+  "homepage": "https://github.com/sbbs3626/es6-webpack#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.3",
